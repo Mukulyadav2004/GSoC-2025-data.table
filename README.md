@@ -13,6 +13,6 @@ For the Google Summer of Code 2025, I will working towards several improvements 
 ## Tracking
 This repository will contain weekly progress reports and notes related to my GSoC journey.
 
-See my work here: [progress](https://github.com/joshhwuu/gsoc-2024/progress) 
+See my work here: [progress](https://github.com/Mukulyadav2004/GSoC-2025-data.table/issues) 
 
 Keep updated through my [blog](https://mukulyadav2004.github.io/Mukul-GSoC-2025/).
